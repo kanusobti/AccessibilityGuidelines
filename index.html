@@ -1,0 +1,69 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Web Accessibility Guidelines</title>
+    <link rel="stylesheet" href="styles.css"/>
+  </head>
+  <body>
+    <header class="header">
+        <h1>Web Accessibility Guidelines</h1>
+    </header>
+    <main>
+      <div class="main wrapper">
+        <section class="leftMenu">
+          <div>
+            <h3>Guidelines</h3>
+            <div class="radioButtons" id="radioBtnGuidelines">
+            </div>    
+          </div>
+          <div>
+            <h3>Tags</h3>
+              <div class="radioButtons" id ="radioBtnTags">
+              </div>
+          </div>
+          <div>
+            <h3>Roles</h3>
+            <!-- (general, designer, developer, tester)intro|dsgn|dev|test|code&gt;.html -->
+            <div class= "radioButtons">
+              <div class="radioDiv">
+                <input type="radio" name="roles" value="intro" id="general" />
+                <label for="general">General</label>
+              </div>
+              <div class="radioDiv">
+                <input type="radio" name="roles" value="dsgn" id="design" />
+                <label for="design">Designer</label>
+              </div>
+              <div class="radioDiv">
+                <input type="radio" name="roles" value="dev" id="developer" />
+                <label for="developer">Developer</label>
+              </div>
+              <div class="radioDiv">
+                <input type="radio" name="roles" value="test" id="tester" />
+                <label for="tester">Tester</label>
+              </div>
+            </div>
+          </div>
+          <div class="submitButton">
+            <label for="submit" class="visuallyHidden">Submit</label>
+            <input type="submit" name="submit" id="btnApply">
+          </div>
+        </section>
+        <section class="content">
+          <div id = "content">
+            
+          </div>
+        </section>
+      </div>
+    </main>
+      <footer>
+        <div class="wrapper">
+          <p>Copyright Kanu Sobti @2020</p>
+        </div>
+      </footer>
+      </div>
+  </main>
+    <script type="text/javascript" src="script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,222 @@
+[
+   {
+      "name":"G1",
+      "tags":"keyboard|mouse",
+      "snippets":{
+         "intro":"<h1>Guideline 1</h1><h3>Introduction</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dsgn":"<h3>Designers Recommendations</h3><p>Guideline 1, Designers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dev":"<h3>Developers Recommendations</h3><p>Guideline 1, Developers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "test":"<h3>Testers Recommendations</h3><p>Guideline 1, Testers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "code":"<h3>Guideline 1 Sample Code</h3><p><pre>&lt;html&gt;&lt;head&gt;&lt;title&gt;Sample Code&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;&lt;p&gt;Web Accessibility Guidelines-Sample Code&lt;/p&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</pre></p>"
+      }
+   },
+   {
+      "name":"G2",
+      "tags":"keyboard|ScreenReader",
+      "snippets":{
+         "intro":"<h1>Guideline 2</h1><h3>Introduction</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dsgn":"<h3>Designers Recommendations</h3><p>Guideline 2, Designers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dev":"<h3>Developers Recommendations</h3><p>Guideline 2, Developers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "test":"<h3>Testers Recommendations</h3><p>Guideline 2, Testers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "code":"<h3>Guideline 2 Sample Code</h3><p><pre>&lt;html&gt;&lt;head&gt;&lt;title&gt;Sample Code&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;&lt;p&gt;Web Accessibility Guidelines-Sample Code&lt;/p&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</pre></p>"
+      }
+   },
+   {
+      "name":"G3",
+      "tags":"keyboard|mouse|ScreenReader",
+      "snippets":{
+         "intro":"<h1>Guideline 3</h1><h3>Introduction</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dsgn":"<h3>Designers Recommendations</h3><p>Guideline 3, Designers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dev":"<h3>Developers Recommendations</h3><p>Guideline 3, Developers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "test":"<h3>Testers Recommendations</h3><p>Guideline 3, Testers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "code":"<h3>Guideline 3 Sample Code</h3><p><pre>&lt;html&gt;&lt;head&gt;&lt;title&gt;Sample Code&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;&lt;p&gt;Web Accessibility Guidelines-Sample Code&lt;/p&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</pre></p>"
+      }
+   },
+   {
+      "name":"G4",
+      "tags":"keyboard|mouse|ScreenReader|Headband",
+      "snippets":{
+         "intro":"<h1>Guideline 4</h1><h3>Introduction</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dsgn":"<h3>Designers Recommendations</h3><p>Guideline 4, Designers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dev":"<h3>Developers Recommendations</h3><p>Guideline 4, Developers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "test":"<h3>Testers Recommendations</h3><p>Guideline 4, Testers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "code":"<h3>Guideline 4 Sample Code</h3><p><pre>&lt;html&gt;&lt;head&gt;&lt;title&gt;Sample Code&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;&lt;p&gt;Web Accessibility Guidelines-Sample Code&lt;/p&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</pre></p>"
+      }
+   },
+   {
+      "name":"G5",
+      "tags":"Magnifier|mouse|ScreenReader",
+      "snippets":{
+         "intro":"<h1>Guideline 5</h1><h3>Introduction</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dsgn":"<h3>Designers Recommendations</h3><p>Guideline 5, Designers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dev":"<h3>Developers Recommendations</h3><p>Guideline 5, Developers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "test":"<h3>Testers Recommendations</h3><p>Guideline 5, Testers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "code":"<h3>Guideline 5 Sample Code</h3><p><pre>&lt;html&gt;&lt;head&gt;&lt;title&gt;Sample Code&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;&lt;p&gt;Web Accessibility Guidelines-Sample Code&lt;/p&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</pre></p>"
+      }
+   },
+   {
+      "name":"G6",
+      "tags":"mouse|ScreenReader",
+      "snippets":{
+         "intro":"<h1>Guideline 6</h1><h3>Introduction</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dsgn":"<h3>Designers Recommendations</h3><p>Guideline 6, Designers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dev":"<h3>Developers Recommendations</h3><p>Guideline 6, Developers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "test":"<h3>Testers Recommendations</h3><p>Guideline 6, Testers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "code":"<h3>Guideline 6 Sample Code</h3><p><pre>&lt;html&gt;&lt;head&gt;&lt;title&gt;Sample Code&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;&lt;p&gt;Web Accessibility Guidelines-Sample Code&lt;/p&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</pre></p>"
+      }
+   },
+   {
+      "name":"G7",
+      "tags":"keyboard|mouse|ScreenReader",
+      "snippets":{
+         "intro":"<h1>Guideline 7</h1><h3>Introduction</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dsgn":"<h3>Designers Recommendations</h3><p>Guideline 7, Designers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dev":"<h3>Developers Recommendations</h3><p>Guideline 7, Developers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "test":"<h3>Testers Recommendations</h3><p>Guideline 7, Testers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "code":"<h3>Guideline 7 Sample Code</h3><p><pre>&lt;html&gt;&lt;head&gt;&lt;title&gt;Sample Code&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;&lt;p&gt;Web Accessibility Guidelines-Sample Code&lt;/p&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</pre></p>"
+      }
+   },
+   {
+      "name":"G8",
+      "tags":"keyboard|ScreenReader",
+      "snippets":{
+         "intro":"<h1>Guideline 8</h1><h3>Introduction</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dsgn":"<h3>Designers Recommendations</h3><p>Guideline 8, Designers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dev":"<h3>Developers Recommendations</h3><p>Guideline 8, Developers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "test":"<h3>Testers Recommendations</h3><p>Guideline 8, Testers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "code":"<h3>Guideline 8 Sample Code</h3><p><pre>&lt;html&gt;&lt;head&gt;&lt;title&gt;Sample Code&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;&lt;p&gt;Web Accessibility Guidelines-Sample Code&lt;/p&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</pre></p>"
+      }
+   },
+   {
+      "name":"G9",
+      "tags":"keyboard|mouse|ScreenReader",
+      "snippets":{
+         "intro":"<h1>Guideline 9</h1><h3>Introduction</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dsgn":"<h3>Designers Recommendations</h3><p>Guideline 9, Designers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dev":"<h3>Developers Recommendations</h3><p>Guideline 9, Developers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "test":"<h3>Testers Recommendations</h3><p>Guideline 9, Testers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "code":"<h3>Guideline 9 Sample Code</h3><p><pre>&lt;html&gt;&lt;head&gt;&lt;title&gt;Sample Code&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;&lt;p&gt;Web Accessibility Guidelines-Sample Code&lt;/p&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</pre></p>"
+      }
+   },
+   {
+      "name":"G10",
+      "tags":"keyboard|mouse|ScreenReader",
+      "snippets":{
+         "intro":"<h1>Guideline 10</h1><h3>Introduction</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dsgn":"<h3>Designers Recommendations</h3><p>Guideline 10, Designers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dev":"<h3>Developers Recommendations</h3><p>Guideline 10, Developers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "test":"<h3>Testers Recommendations</h3><p>Guideline 10, Testers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "code":"<h3>Guideline 10 Sample Code</h3><p><pre>&lt;html&gt;&lt;head&gt;&lt;title&gt;Sample Code&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;&lt;p&gt;Web Accessibility Guidelines-Sample Code&lt;/p&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</pre></p>"
+      }
+   },
+   {
+      "name":"G11",
+      "tags":"keyboard|mouse|ScreenReader",
+      "snippets":{
+         "intro":"<h1>Guideline 11</h1><h3>Introduction</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dsgn":"<h3>Designers Recommendations</h3><p>Guideline 11, Designers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dev":"<h3>Developers Recommendations</h3><p>Guideline 11, Developers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "test":"<h3>Testers Recommendations</h3><p>Guideline 11, Testers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "code":"<h3>Guideline 11 Sample Code</h3><p><pre>&lt;html&gt;&lt;head&gt;&lt;title&gt;Sample Code&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;&lt;p&gt;Web Accessibility Guidelines-Sample Code&lt;/p&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</pre></p>"
+      }
+   },
+   {
+      "name":"G12",
+      "tags":"keyboard|mouse|ScreenReader",
+      "snippets":{
+         "intro":"<h1>Guideline 12</h1><h3>Introduction</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dsgn":"<h3>Designers Recommendations</h3><p>Guideline 12, Designers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dev":"<h3>Developers Recommendations</h3><p>Guideline 12, Developers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "test":"<h3>Testers Recommendations</h3><p>Guideline 12, Testers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "code":"<h3>Guideline 12 Sample Code</h3><p><pre>&lt;html&gt;&lt;head&gt;&lt;title&gt;Sample Code&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;&lt;p&gt;Web Accessibility Guidelines-Sample Code&lt;/p&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</pre></p>"
+      }
+   },
+   {
+      "name":"G13",
+      "tags":"keyboard|mouse",
+      "snippets":{
+         "intro":"<h1>Guideline 13</h1><h3>Introduction</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dsgn":"<h3>Designers Recommendations</h3><p>Guideline 13, Designers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dev":"<h3>Developers Recommendations</h3><p>Guideline 13, Developers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "test":"<h3>Testers Recommendations</h3><p>Guideline 13, Testers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "code":"<h3>Guideline 13 Sample Code</h3><p><pre>&lt;html&gt;&lt;head&gt;&lt;title&gt;Sample Code&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;&lt;p&gt;Web Accessibility Guidelines-Sample Code&lt;/p&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</pre></p>"
+      }
+   },
+   {
+      "name":"G14",
+      "tags":"mouse|ScreenReader",
+      "snippets":{
+         "intro":"<h1>Guideline 14</h1><h3>Introduction</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dsgn":"<h3>Designers Recommendations</h3><p>Guideline 14, Designers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dev":"<h3>Developers Recommendations</h3><p>Guideline 14, Developers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "test":"<h3>Testers Recommendations</h3><p>Guideline 14, Testers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "code":"<h3>Guideline 14 Sample Code</h3><p><pre>&lt;html&gt;&lt;head&gt;&lt;title&gt;Sample Code&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;&lt;p&gt;Web Accessibility Guidelines-Sample Code&lt;/p&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</pre></p>"
+      }
+   },
+   {
+      "name":"G15",
+      "tags":"keyboard|mouse|ScreenReader",
+      "snippets":{
+         "intro":"<h1>Guideline 15</h1><h3>Introduction</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dsgn":"<h3>Designers Recommendations</h3><p>Guideline 15, Designers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dev":"<h3>Developers Recommendations</h3><p>Guideline 15, Developers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "test":"<h3>Testers Recommendations</h3><p>Guideline 15, Testers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "code":"<h3>Guideline 15 Sample Code</h3><p><pre>&lt;html&gt;&lt;head&gt;&lt;title&gt;Sample Code&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;&lt;p&gt;Web Accessibility Guidelines-Sample Code&lt;/p&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</pre></p>"
+      }
+   },
+   {
+      "name":"G16",
+      "tags":"keyboard|mouse|ScreenReader",
+      "snippets":{
+         "intro":"<h1>Guideline 16</h1><h3>Introduction</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dsgn":"<h3>Designers Recommendations</h3><p>Guideline 16, Designers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dev":"<h3>Developers Recommendations</h3><p>Guideline 16, Developers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "test":"<h3>Testers Recommendations</h3><p>Guideline 16, Testers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "code":"<h3>Guideline 16 Sample Code</h3><p><pre>&lt;html&gt;&lt;head&gt;&lt;title&gt;Sample Code&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;&lt;p&gt;Web Accessibility Guidelines-Sample Code&lt;/p&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</pre></p>"
+      }
+   },
+   {
+      "name":"G17",
+      "tags":"keyboard|ScreenReader",
+      "snippets":{
+         "intro":"<h1>Guideline 17</h1><h3>Introduction</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dsgn":"<h3>Designers Recommendations</h3><p>Guideline 17, Designers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dev":"<h3>Developers Recommendations</h3><p>Guideline 17, Developers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "test":"<h3>Testers Recommendations</h3><p>Guideline 17, Testers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "code":"<h3>Guideline 17 Sample Code</h3><p><pre>&lt;html&gt;&lt;head&gt;&lt;title&gt;Sample Code&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;&lt;p&gt;Web Accessibility Guidelines-Sample Code&lt;/p&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</pre></p>"
+      }
+   },
+   {
+      "name":"G18",
+      "tags":"mouse|ScreenReader",
+      "snippets":{
+         "intro":"<h1>Guideline 18</h1><h3>Introduction</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dsgn":"<h3>Designers Recommendations</h3><p>Guideline 18, Designers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dev":"<h3>Developers Recommendations</h3><p>Guideline 18, Developers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "test":"<h3>Testers Recommendations</h3><p>Guideline 18, Testers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "code":"<h3>Guideline 18 Sample Code</h3><p><pre>&lt;html&gt;&lt;head&gt;&lt;title&gt;Sample Code&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;&lt;p&gt;Web Accessibility Guidelines-Sample Code&lt;/p&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</pre></p>"
+      }
+   },
+   {
+      "name":"G19",
+      "tags":"keyboard|mouse|Headband",
+      "snippets":{
+         "intro":"<h1>Guideline 19</h1><h3>Introduction</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dsgn":"<h3>Designers Recommendations</h3><p>Guideline 19, Designers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dev":"<h3>Developers Recommendations</h3><p>Guideline 19, Developers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "test":"<h3>Testers Recommendations</h3><p>Guideline 19, Testers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "code":"<h3>Guideline 19 Sample Code</h3><p><pre>&lt;html&gt;&lt;head&gt;&lt;title&gt;Sample Code&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;&lt;p&gt;Web Accessibility Guidelines-Sample Code&lt;/p&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</pre></p>"
+      }
+   },
+   {
+      "name":"G20",
+      "tags":"keyboard|mouse|ScreenReader",
+      "snippets":{
+         "intro":"<h1>Guideline 20</h1><h3>Introduction</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dsgn":"<h3>Designers Recommendations</h3><p>Guideline 20, Designers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "dev":"<h3>Developers Recommendations</h3><p>Guideline 20, Developers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "test":"<h3>Testers Recommendations</h3><p>Guideline 20, Testers Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien. Sed arcu non odio euismod lacinia at quis risus.</p>",
+         "code":"<h3>Guideline 20 Sample Code</h3><p><pre>&lt;html&gt;&lt;head&gt;&lt;title&gt;Sample Code&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;&lt;p&gt;Web Accessibility Guidelines-Sample Code&lt;/p&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</pre></p>"
+      }
+   }
+]
