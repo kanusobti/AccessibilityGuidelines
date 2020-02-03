@@ -53,10 +53,12 @@ main {
   justify-content: center;
   align-items: center;
 }
+input[type="submit"]{
+  padding: 2% 3%;
+}
 input[type="submit"]:hover {
   color: white;
   background-color: #005a9c;
-  padding: 2% 3%;
 }
 .radioDiv > label {
   padding-left: 20px;
